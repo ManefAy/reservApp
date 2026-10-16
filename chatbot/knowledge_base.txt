@@ -1,0 +1,64 @@
+# ReservApp - Knowledge Base
+
+## What is ReservApp?
+ReservApp is a room reservation management system that allows members to browse available rooms (salles) and make reservations for specific dates and timeslots.
+
+## How to book a room (membres)
+1. Log in to your account
+2. Click on "Salles" in the navigation bar
+3. Browse the available rooms
+4. Click on a room to see its details and available timeslots
+5. Choose a date and an available timeslot
+6. Click "Réserver" to confirm your reservation
+7. You will receive a confirmation email with a QR code
+
+## Rooms (Salles)
+- Each room has a name, description, and capacity
+- Rooms have available timeslots (créneaux) for booking
+- Timeslots already booked by others are shown as unavailable
+- You can view all rooms without being logged in
+
+## Reservations
+- Members can view their reservations under "Mes réservations"
+- Each reservation has a status: active or past
+- A confirmation email with a QR code is sent after booking
+- You cannot book a timeslot that is already taken
+- You cannot book timeslots in the past
+
+## Account & Profile
+- Members can update their profile information
+- Members can upload a profile photo
+- Members can change their password
+- Login can be done with email/password or Google account
+
+## Reviews (Avis)
+- Members can leave a star rating (1 to 5 stars) and a comment about the app
+- Reviews are visible to everyone on the Avis page
+- Members can leave multiple reviews
+
+## Calendar
+- The calendar page shows all reservations visually
+- Members can see reservations by day, week, or month
+
+## Security
+- The app uses OTP (one-time password) verification for admin accounts
+- If you log in from a new device or location, you will receive a security alert email
+
+## FAQ
+Q: I forgot my password, what do I do?
+A: Click on "Mot de passe oublié?" on the login page and follow the instructions sent to your email.
+
+Q: Can I cancel a reservation?
+A: Contact the administrator to cancel a reservation.
+
+Q: How do I change my profile photo?
+A: Go to your profile page by clicking your name in the navbar, then upload a new photo.
+
+Q: What happens after I book a room?
+A: You receive a confirmation email with a QR code that serves as your reservation proof.
+
+Q: Can I book multiple rooms?
+A: Yes, you can make multiple reservations for different rooms and timeslots.
+
+Q: Is my data secure?
+A: Yes, ReservApp uses secure authentication including Google OAuth and email verification.

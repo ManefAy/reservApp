@@ -1,0 +1,7 @@
+config/config.php
+config/mail.php
+OAuth 2.0 Client IDs/
+logins credentials.txt
+Features to Add.txt
+public/uploads/photos/*
+public/qrcodes/*
